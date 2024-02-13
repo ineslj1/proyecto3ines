@@ -15,19 +15,7 @@
 }
 
 .card .description h3 {
-  font-size: 16px;
   white-space: nowrap;
-  text-overflow: ellipsis;
   overflow: hidden;
-}
-
-.card .description .user {
-  justify-content: flex-start;
-  font-size: 14px;
-  margin-top: var(--spacing-sm);
-}
-.card .description .user .img-container {
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  font-size: 12px;
 }
