@@ -18,7 +18,7 @@ footer > div:first-child {
   cursor: pointer;
 }
 footer > div:hover {
-  background-color: var(--bg-200);
+  background-color: var(--bg-00);
   outline: 1px solid var(--bg-00);
 }
 footer > div > img {
@@ -43,7 +43,7 @@ footer ul.flex-container {
 footer ul > li > a {
   font-size: 13px;
   font-weight: 700;
-  color: var(--primary-200);
+  color: var(--tex-100);
 }
 hr {
   width: 100%;

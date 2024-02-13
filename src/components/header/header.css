@@ -37,7 +37,7 @@ li.icon:hover {
 }
 
 #search:hover {
-  outline: 2px solid var(--primary-200);
+  outline: 2px solid var(--text-100);
 }
 @media (max-width: 576px) {
   nav {
@@ -45,7 +45,7 @@ li.icon:hover {
     position: fixed;
     bottom: 0;
     left: 0;
-    background-color: var(--bg-200);
+    background-color: var(--bg-00);
   }
   nav ul.flex-container {
     justify-content: space-evenly;
