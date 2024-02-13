@@ -1,14 +1,7 @@
 import './footer.css';
 const footerLinks = [
-  'About',
-  'Blog',
-  'Businesses',
-  'Careers',
-  'Developers',
-  'Removals',
   'Privacy Policy',
-  'Personalized Ads',
-  'Your Privacy Rights',
+  'Privacy Rights',
   'Terms'
 ];
 const toggleFooter = (e) => {

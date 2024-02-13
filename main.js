@@ -1,7 +1,7 @@
 import { footer } from './src/components/footer/footer';
 import { populateGallery } from './src/components/gallery/gallery';
 import { header } from './src/components/header/header';
-import { links } from './src/data/navLinks';
+import { links } from './src/data/navHeader';
 import './style.css';
 
 const UNSPLASH_API = 'https://api.unsplash.com/';
