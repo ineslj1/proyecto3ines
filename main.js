@@ -32,7 +32,7 @@ const searchPics = (apiUrl, key, query) => {
         console.log(bodyRes);
         if (bodyRes.total === 0) {
           noImagesMessage.innerHTML =
-            'No se encontraron imágenes que coincidan con tu búsqueda 🫢 <br>';
+            'No images matching your search 🫢 <br>';
           body.insertBefore(noImagesMessage, mainGallery);
           mainGallery.innerHTML = '';
         } else {
